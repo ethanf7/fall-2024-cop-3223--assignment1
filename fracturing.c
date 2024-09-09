@@ -1,4 +1,4 @@
-// Ethan Frederick 
+// Ethan Frederick
 // UCFID: 5167926
 // Professor Parra
 // COP
